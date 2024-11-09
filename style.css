@@ -47,6 +47,7 @@ Basic Reset
   }
   
   header p {
+    background-color: rgba(242, 245, 248, 0.96);
     font-size: 1.2rem;
     color: #070000;
     margin-bottom: 2rem;
